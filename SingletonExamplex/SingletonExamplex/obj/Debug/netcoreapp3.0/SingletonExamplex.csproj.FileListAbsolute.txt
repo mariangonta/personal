@@ -1,0 +1,11 @@
+C:\Users\iMar\source\repos\SingletonExamplex\SingletonExamplex\bin\Debug\netcoreapp3.0\SingletonExamplex.exe
+C:\Users\iMar\source\repos\SingletonExamplex\SingletonExamplex\bin\Debug\netcoreapp3.0\SingletonExamplex.deps.json
+C:\Users\iMar\source\repos\SingletonExamplex\SingletonExamplex\bin\Debug\netcoreapp3.0\SingletonExamplex.runtimeconfig.json
+C:\Users\iMar\source\repos\SingletonExamplex\SingletonExamplex\bin\Debug\netcoreapp3.0\SingletonExamplex.runtimeconfig.dev.json
+C:\Users\iMar\source\repos\SingletonExamplex\SingletonExamplex\bin\Debug\netcoreapp3.0\SingletonExamplex.dll
+C:\Users\iMar\source\repos\SingletonExamplex\SingletonExamplex\bin\Debug\netcoreapp3.0\SingletonExamplex.pdb
+C:\Users\iMar\source\repos\SingletonExamplex\SingletonExamplex\obj\Debug\netcoreapp3.0\SingletonExamplex.csprojAssemblyReference.cache
+C:\Users\iMar\source\repos\SingletonExamplex\SingletonExamplex\obj\Debug\netcoreapp3.0\SingletonExamplex.AssemblyInfoInputs.cache
+C:\Users\iMar\source\repos\SingletonExamplex\SingletonExamplex\obj\Debug\netcoreapp3.0\SingletonExamplex.AssemblyInfo.cs
+C:\Users\iMar\source\repos\SingletonExamplex\SingletonExamplex\obj\Debug\netcoreapp3.0\SingletonExamplex.dll
+C:\Users\iMar\source\repos\SingletonExamplex\SingletonExamplex\obj\Debug\netcoreapp3.0\SingletonExamplex.pdb
