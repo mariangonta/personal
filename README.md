@@ -1,2 +1,0 @@
-# personal
-teme plus exemple
